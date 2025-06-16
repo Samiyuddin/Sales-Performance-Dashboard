@@ -33,7 +33,7 @@ This dashboard was built to analyze:
 ## 📁 Files
 
 - ![Dashboard](Dashboard.png)
-[Download Power BI File](Sales_Performance_Dashboard.pbix)
+[Sales_Performance_Dashboard.pbix]
 
 
 ## 💡 Insights (example)
