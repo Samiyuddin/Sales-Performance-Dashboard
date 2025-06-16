@@ -30,6 +30,12 @@ This dashboard was built to analyze:
 
 ![Dashboard Screenshot](./Dashboard.png)
 
+## 📁 Files
+
+- ![Dashboard](Dashboard.png)
+[Download Power BI File](Sales_Performance_Dashboard.pbix)
+
+
 ## 💡 Insights (example)
 
 - The West region achieved the highest total sales.
