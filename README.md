@@ -26,6 +26,10 @@ This dashboard was built to analyze:
 - DAX
 - Excel (for initial data cleaning)
 
+ ## 📸 Screenshot
+
+![Dashboard Screenshot](./Screenshot.png)
+
 ## 💡 Insights (example)
 
 - The West region achieved the highest total sales.
