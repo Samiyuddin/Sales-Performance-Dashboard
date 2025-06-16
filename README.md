@@ -29,12 +29,7 @@ This dashboard was built to analyze:
  ## 📸 Screenshot
 
 ![Dashboard Screenshot](./Dashboard.png)
-
-## 📁 Files
-
-- ![Dashboard](Dashboard.png)
-- [File of Dashboard](ales Performance Dashboard.pbix).
-
+(./Sales Performance Dashboard.pbix)
 
 ## 💡 Insights (example)
 
