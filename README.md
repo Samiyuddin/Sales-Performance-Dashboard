@@ -33,7 +33,7 @@ This dashboard was built to analyze:
 ## 📁 Files
 
 - ![Dashboard](Dashboard.png)
-[Sales_Performance_Dashboard.pbix]
+- [File of Dashboard](ales Performance Dashboard.pbix).
 
 
 ## 💡 Insights (example)
