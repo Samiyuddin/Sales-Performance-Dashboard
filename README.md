@@ -29,7 +29,6 @@ This dashboard was built to analyze:
  ## 📸 Screenshot
 
 ![Dashboard Screenshot](./Dashboard.png)
-(./Sales Performance Dashboard.pbix)
 
 ## 💡 Insights (example)
 
