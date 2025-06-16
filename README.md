@@ -28,7 +28,7 @@ This dashboard was built to analyze:
 
  ## 📸 Screenshot
 
-![Dashboard Screenshot](./Screenshot.png)
+![Dashboard Screenshot](./Dashboard.png)
 
 ## 💡 Insights (example)
 
